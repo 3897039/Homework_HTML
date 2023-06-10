@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+    background-color: blueviolet;
+    padding: 9px;
+}
+
+div {
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5 px 10% 5 px 10%;
+}
+
+body {
+    background: grey;
+}
+
+nav {
+    margin: 5px; 
+}
+
+nav a {
+    background-color: silver;
+    margin: 3px;
+    padding: 3px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: darkgreen;
+}
+
+img:hover {
+    color: red;
+}
+
