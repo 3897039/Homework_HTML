@@ -1,0 +1,24 @@
+body {
+    background: grey;
+}
+
+div {
+    background-color: rgba(241, 235, 237, 0.959);
+    padding: 5px;
+    margin: 5px 10% 5px 10%;
+}
+
+h1 {
+    color: rgba(255, 0, 0, 0.911);
+    background-color: rgba(228, 138, 161, 0.959);
+    padding: 9px;
+}
+
+a:hover {
+    background-color: darkgreen;
+}
+
+img:hover {
+    color: red;
+}
+
